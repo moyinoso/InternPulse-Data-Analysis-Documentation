@@ -9,18 +9,6 @@ This project analyzes customer behavior data from InternPulse, focusing on:
 
 ### Objective: Identify actionable insights to improve customer satisfaction, reduce returns, and optimize marketing strategies.
 
-2. Data Sources & Methodology
-Data Used
-Screenshots/CSVs:
-
-Screenshot 2025-03-25 080651.png: Shipping preferences by product category.
-
-Screenshot 2025-03-25 080659.png: Monthly sales trends.
-
-Screenshot 2025-03-25 081216.png: Social media engagement vs. purchase amounts/ratings.
-
-Screenshot 2025-03-25 081307.png & 081316.png: Return rates by category/quarter.
-
 ### Tools
 Microsoft Excel
 Manual Analysis: Pivot tables.
@@ -37,7 +25,7 @@ Segmented by age, engagement level, and product category.
 
 ### Visualization: Created mock-ups for bar charts, tables, and trend lines.
 
-3. Key Insights
+2. Key Insights
 A. Customer Demographics
 Spending: Equal total purchases ($500) for young (<35) and old (>36) customers.
 Gap: No category-specific data to tailor marketing.
@@ -59,7 +47,7 @@ E. Social Media Impact
 High Engagement: 268 purchases, 792 ratings (vs. 723 for Medium).
 None Group: 247 purchases (untapped organic traffic).
 
-4. Recommendations
+3. Recommendations
 Immediate Actions
 
 Reduce Returns:
@@ -76,7 +64,7 @@ Long-Term Strategies
 Data Integration: Merge rating and return datasets for causality analysis.
 Seasonal Planning: Boost inventory for April-August (peak sales).
 
-5. Limitations & Next Steps
+4. Limitations & Next Steps
 Data Gaps
 No hourly/daily transaction timestamps (peak hours unknown).
 Income levels not linked to purchase categories.
